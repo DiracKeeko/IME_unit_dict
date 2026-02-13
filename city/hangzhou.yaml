@@ -1,0 +1,714 @@
+# Keeko IME Unit dictionary - hangzhou - 杭州市
+# encoding: utf-8
+---
+name: 杭州市地名
+version: "2026-02-13 11:19:56"
+sort: by_Keeko
+...
+安吉	an ji	1
+安乐街	an le jie	1
+奥体中心	ao ti zhong xin	1
+八堡	ba bao	1
+八丈井	ba zhang jing	1
+白荡海	bai dang hai	1
+白堤	bai di	1
+白马湖	bai ma hu	1
+白鸟村	bai niao cun	1
+白石	bai shi	1
+白塔岭	bai ta ling	1
+白杨街道	bai yang jie dao	1
+半道红	ban dao hong	1
+板桥村	ban qiao cun	1
+半山	ban shan	1
+半山镇	ban shan zhen	1
+浜河	bang he	1
+包建	bao jian	1
+宝石山	bao shi shan	1
+保亭	bao ting	1
+北落马营	bei luo ma ying	1
+北山街道	bei shan jie dao	1
+北星	bei xing	1
+滨盛	bin sheng	1
+滨文	bin wen	1
+滨文苑	bin wen yuan	1
+博览中心	bo lan zhong xin	1
+采荷街道	cai he jie dao	1
+彩虹	cai hong	1
+彩虹充电站	cai hong chong dian zhan	1
+彩虹城	cai hong cheng	1
+彩虹快速路	cai hong kuai su lu	1
+彩虹立交	cai hong li jiao	1
+蔡马	cai ma	1
+彩霞岭	cai xia ling	1
+蚕花园	can hua yuan	1
+蚕桑	can sang	1
+仓基新村	cang ji xin cun	1
+仓桥	cang qiao	1
+草庄	cao zhuang	1
+茶市街	cha shi jie	1
+长二	chang er	1
+长河	chang he	1
+长河街道	chang he jie dao	1
+长江小区	chang jiang xiao qu	1
+长乐苑	chang le yuan	1
+长明寺巷	chang ming si xiang	1
+长睦	chang mu	1
+长睦苑	chang mu yuan	1
+长庆街道	chang qing jie dao	1
+常青苑	chang qing yuan	1
+长青苑	chang qing yuan	1
+长寿	chang shou	1
+长一	chang yi	1
+长征桥	chang zheng qiao	1
+潮鸣街道	chao ming jie dao	1
+城星路	cheng xing lu	1
+诚业路	cheng ye lu	1
+城站	cheng zhan	1
+厨房斗	chu fang dou	1
+春晖	chun hui	1
+春江	chun jiang	1
+翠玉	cui yu	1
+翠苑二区	cui yuan er qu	1
+翠苑街道	cui yuan jie dao	1
+翠苑三区	cui yuan san qu	1
+翠苑四区	cui yuan si qu	1
+翠苑一区	cui yuan yi qu	1
+村口	cun kou	1
+大北	da bei	1
+大港桥	da gang qiao	1
+大关街道	da guan jie dao	1
+大浒路	da hu lu	1
+大华	da hua	1
+大家苑	da jia yuan	1
+大江东	da jiang dong	1
+大怜上堡村	da lian shang bao cun	1
+大木桥	da mu qiao	1
+大清社区	da qing she qu	1
+大塘	da tang	1
+大塘巷	da tang xiang	1
+大唐苑	da tang yuan	1
+打铁关	da tie guan	1
+大通桥	da tong qiao	1
+大学路	da xue lu	1
+大诸桥	da zhu qiao	1
+荡王头	dang wang tou	1
+刀茅巷	dao mao xiang	1
+稻香园	dao xiang yuan	1
+德加	de jia	1
+德胜	de sheng	1
+德胜东村	de sheng dong cun	1
+灯塔	deng ta	1
+灯芯巷	deng xin xiang	1
+登云路	deng yun lu	1
+登云圩	deng yun xu	1
+定安路	ding an lu	1
+定海	ding hai	1
+丁家桥	ding jia qiao	1
+丁兰	ding lan	1
+丁桥	ding qiao	1
+丁桥苑	ding qiao yuan	1
+丁桥镇	ding qiao zhen	1
+东冠	dong guan	1
+东河	dong he	1
+董家	dong jia	1
+董家新村	dong jia xin cun	1
+东江嘴村	dong jiang zui cun	1
+东穆坞	dong mu wu	1
+东平巷	dong ping xiang	1
+东坡路	dong po lu	1
+东山弄	dong shan nong	1
+东信大道	dong xin da dao	1
+东新街道	dong xin jie dao	1
+东新园	dong xin yuan	1
+东园	dong yuan	1
+东苑第二	dong yuan di er	1
+东苑第一	dong yuan di yi	1
+东岳	dong yue	1
+独城	du cheng	1
+渡驾桥	du jia qiao	1
+多蓝水岸	duo lan shui an	1
+范家	fan jia	1
+方家埭	fang jia dai	1
+方家畈	fang jia fan	1
+丰北	feng bei	1
+枫桦西路	feng hua xi lu	1
+凤凰	feng huang	1
+冯家村	feng jia cun	1
+凤麟	feng lin	1
+富春园	fu chun yuan	1
+芙蓉	fu rong	1
+府新	fu xin	1
+复兴街	fu xing jie	1
+复兴大桥	fu xing da qiao	1
+府苑	fu yuan	1
+高教	gao jiao	1
+高沙	gao sha	1
+皋塘	gao tang	1
+皋亭	gao ting	1
+格畈	ge fan	1
+葛衙庄	ge ya zhuang	1
+艮山门	gen shan men	1
+艮园	gen yuan	1
+拱宸	gong chen	1
+拱宸桥街道	gong chen qiao jie dao	1
+枸桔弄	gou ju nong	1
+古荡北区	gu dang bei qu	1
+古荡东区	gu dang dong qu	1
+古荡街道	gu dang jie dao	1
+古荡南区	gu dang nan qu	1
+古荡湾	gu dang wan	1
+古墩	gu dun	1
+瓜山	gua shan	1
+冠二	guan er	1
+桂花西路	gui hua xi lu	1
+桂花园	gui hua yuan	1
+郭家厍	guo jia she	1
+海潮	hai chao	1
+海康	hai kang	1
+海天	hai tian	1
+海月桥	hai yue qiao	1
+翰墨香林	han mo xiang lin	1
+杭玻阔板桥	hang bo kuo ban qiao	1
+杭钢北苑	hang gang bei yuan	1
+杭钢南苑	hang gang nan yuan	1
+杭钢西苑	hang gang xi yuan	1
+杭氧	hang yang	1
+杭州东站	hang zhou dong zhan	1
+杭州南站	hang zhou nan zhan	1
+杭州西站	hang zhou xi zhan	1
+杭州站	hang zhou zhan	1
+河东	he dong	1
+和华	he hua	1
+荷花塘	he hua tang	1
+和家园	he jia yuan	1
+合建	he jian	1
+和睦	he mu	1
+和睦街道	he mu jie dao	1
+和平苑	he ping yuan	1
+横街	heng jie	1
+横桥	heng qiao	1
+恒生	heng sheng	1
+横塘	heng tang	1
+红建河	hong jian he	1
+红菱	hong ling	1
+红梅	hong mei	1
+红苹果	hong ping guo	1
+红石板	hong shi ban	1
+红五月	hong wu yue	1
+虹园	hong yuan	1
+候潮门	hou chao men	1
+厚诚桥	hou cheng qiao	1
+后珠苑	hou zhu yuan	1
+湖滨街道	hu bin jie dao	1
+湖畔	hu pan	1
+湖墅街道	hu shu jie dao	1
+华丰	hua feng	1
+花港观鱼	hua gang guan yu	1
+华家池	hua jia chi	1
+华联	hua lian	1
+华联村	hua lian cun	1
+化纤	hua xian	1
+华星	hua xing	1
+花园	hua yuan	1
+花园岗	hua yuan gang	1
+花园亭	hua yuan ting	1
+华中	hua zhong	1
+环北新村	huan bei xin cun	1
+环西	huan xi	1
+黄姑山	huang gu shan	1
+黄家	huang jia	1
+黄龙	huang long	1
+黄龙体育场	huang long ti yu chang	1
+皇亲苑	huang qin yuan	1
+蕙兰	hui lan	1
+回龙	hui long	1
+火车东站	huo che dong zhan	1
+火炬大道	huo ju da dao	1
+机场	ji chang	1
+吉鸿	ji hong	1
+计家	ji jia	1
+吉如	ji ru	1
+机神	ji shen	1
+夹城巷	jia cheng xiang	1
+嘉荷	jia he	1
+嘉绿苑	jia lv yuan	1
+假山路	jia shan lu	1
+健风	jian feng	1
+建华	jian hua	1
+笕桥	jian qiao	1
+笕桥街道	jian qiao jie dao	1
+笕桥镇	jian qiao zhen	1
+建设二路	jian she er lu	1
+建设三路	jian she san lu	1
+建设一路	jian she yi lu	1
+建塘	jian tang	1
+笕新	jian xin	1
+建业路	jian ye lu	1
+蒋村	jiang cun	1
+蒋村街	jiang cun jie	1
+蒋村街道	jiang cun jie dao	1
+江二	jiang er	1
+江汉路	jiang han lu	1
+蒋家浜	jiang jia bang	1
+江口	jiang kou	1
+江陵路	jiang ling lu	1
+江南大道	jiang nan da dao	1
+江三	jiang san	1
+江汀	jiang ting	1
+江一	jiang yi	1
+教工路	jiao gong lu	1
+洁莲	jie lian	1
+戒坛寺巷	jie tan si xiang	1
+金海	jin hai	1
+金家弄村	jin jia nong cun	1
+近江东园	jin jiang dong yuan	1
+近江西园	jin jiang xi yuan	1
+金兰池	jin lan chi	1
+金乐	jin le	1
+金马村	jin ma cun	1
+金钱巷	jin qian xiang	1
+金秋花园	jin qiu hua yuan	1
+金沙港	jin sha gang	1
+金星	jin xing	1
+锦绣	jin xiu	1
+金雅苑	jin ya yuan	1
+金禹	jin yu	1
+金鱼井	jin yu jing	1
+金祝	jin zhu	1
+景安	jing an	1
+晶都	jing du	1
+京都苑	jing du yuan	1
+景芳	jing fang	1
+景湖	jing hu	1
+景华	jing hua	1
+京惠	jing hui	1
+景荣	jing rong	1
+净寺	jing si	1
+景昙	jing tan	1
+景新	jing xin	1
+景秀	jing xiu	1
+静怡	jing yi	1
+景园	jing yuan	1
+景苑	jing yuan	1
+竞舟	jing zhou	1
+九堡	jiu bao	1
+九堡大桥	jiu bao da qiao	1
+九堡镇	jiu bao zhen	1
+九华	jiu hua	1
+九莲	jiu lian	1
+桕联	jiu lian	1
+九溪	jiu xi	1
+聚才路	ju cai lu	1
+凯西	kai xi	1
+凯旋街道	kai xuan jie dao	1
+康桥	kang qiao	1
+康桥村	kang qiao cun	1
+康桥镇	kang qiao zhen	1
+孔家埭	kong jia dai	1
+葵巷	kui xiang	1
+兰里	lan li	1
+蓝桥	lan qiao	1
+蓝天	lan tian	1
+兰溪口村	lan xi kou cun	1
+兰苑	lan yuan	1
+朗琴	lang qin	1
+劳动路	lao dong lu	1
+老房地	lao fang di	1
+老沙村	lao sha cun	1
+老浙大	lao zhe da	1
+雷峰塔	lei feng ta	1
+李家桥	li jia qiao	1
+丽江	li jiang	1
+黎明	li ming	1
+里桐坞	li tong wu	1
+黎园	li yuan	1
+莲花	lian hua	1
+联庄	lian zhuang	1
+良户	liang hu	1
+邻里	lin li	1
+凌家桥	ling jia qiao	1
+灵山村	ling shan cun	1
+灵隐	ling yin	1
+灵隐街道	ling yin jie dao	1
+六堡	liu bao	1
+柳翠井巷	liu cui jing xiang	1
+流水东苑	liu shui dong yuan	1
+流水西苑	liu shui xi yuan	1
+留下	liu xia	1
+留下街	liu xia jie	1
+留下街道	liu xia jie dao	1
+柳营	liu ying	1
+龙池村	long chi cun	1
+龙王沙	long wang sha	1
+龙心	long xin	1
+龙章	long zhang	1
+陆板桥	lu ban qiao	1
+六合	lu he	1
+陆家圩	lu jia xu	1
+罗家村	luo jia cun	1
+骆家埭村	luo jia dai cun	1
+绿茗	lv ming	1
+麦岭沙	mai ling sha	1
+麦苗	mai miao	1
+卖鱼桥	mai yu qiao	1
+馒头山	man tou shan	1
+茅廊巷	mao lang xiang	1
+美辰	mei chen	1
+梅花碑	mei hua bei	1
+魅力城	mei li cheng	1
+美院	mei yuan	1
+美院象山	mei yuan xiang shan	1
+美政桥	mei zheng qiao	1
+米市	mi shi	1
+米市巷街道	mi shi xiang jie dao	1
+庙后王	miao hou wang	1
+庙前街	miao qian jie	1
+铭和	ming he	1
+明真宫	ming zhen gong	1
+明珠	ming zhu	1
+莫邪塘	mo ye tang	1
+木场巷	mu chang xiang	1
+南都	nan du	1
+南肖埠	nan xiao bu	1
+南星街道	nan xing jie dao	1
+南阳坝	nan yang ba	1
+南苑	nan yuan	1
+牛田	niu tian	1
+农科院	nong ke yuan	1
+弄口	nong kou	1
+彭埠	peng bu	1
+彭埠大桥	peng bu da qiao	1
+彭埠镇	peng bu zhen	1
+平安桥	ping an qiao	1
+屏峰	ping feng	1
+普福	pu fu	1
+濮家	pu jia	1
+浦塘村	pu tang cun	1
+浦沿街道	pu yan jie dao	1
+七堡	qi bao	1
+七格	qi ge	1
+七古登	qi gu deng	1
+栖霞岭	qi xia ling	1
+钱杭	qian hang	1
+钱江世纪城	qian jiang shi ji cheng	1
+钱江苑	qian jiang yuan	1
+钱塘	qian tang	1
+桥西	qiao xi	1
+勤丰	qin feng	1
+沁雅	qin ya	1
+沁园	qin yuan	1
+沁苑	qin yuan	1
+清波街道	qing bo jie dao	1
+清波门	qing bo men	1
+庆春门	qing chun men	1
+庆春隧道	qing chun sui dao	1
+庆丰	qing feng	1
+庆和	qing he	1
+清河坊	qing he fang	1
+青荷苑	qing he yuan	1
+清涟	qing lian	1
+庆隆	qing long	1
+青年路	qing nian lu	1
+清泰门	qing tai men	1
+求智	qiu zhi	1
+曲院	qu yuan	1
+衢州路	qu zhou lu	1
+绕城村	rao cheng cun	1
+仁和仓	ren he cang	1
+人民	ren min	1
+仁桥村	ren qiao cun	1
+阮家桥	ruan jia qiao	1
+三坝	san ba	1
+三堡	san bao	1
+三叉	san cha	1
+三墩	san dun	1
+三墩镇	san dun zhen	1
+三里家园	san li jia yuan	1
+三里亭	san li ting	1
+三深	san shen	1
+三台山	san tai shan	1
+三塘	san tang	1
+三塘北苑	san tang bei yuan	1
+三塘苑	san tang yuan	1
+三阳村	san yang cun	1
+三义	san yi	1
+珊瑚沙	shan hu sha	1
+山联村	shan lian cun	1
+善贤	shan xian	1
+上保	shang bao	1
+上城埭	shang cheng dai	1
+尚德	shang de	1
+商教苑	shang jiao yuan	1
+上马塍	shang ma cheng	1
+上沙	shang sha	1
+上塘街道	shang tang jie dao	1
+上阳村	shang yang cun	1
+上羊市街	shang yang shi jie	1
+绍兴路	shao xing lu	1
+社井村	she jing cun	1
+沈家	shen jia	1
+沈家弄	shen jia nong	1
+沈家桥	shen jia qiao	1
+深潭口	shen tan kou	1
+沈塘桥	shen tang qiao	1
+胜利	sheng li	1
+始版桥	shi ban qiao	1
+时代大道	shi dai da dao	1
+时代高架	shi dai gao jia	1
+石灰桥	shi hui qiao	1
+施家花园	shi jia hua yuan	1
+市街	shi jie	1
+石龙山	shi long shan	1
+石马	shi ma	1
+市民中心	shi min zhong xin	1
+石桥	shi qiao	1
+石桥街道	shi qiao jie dao	1
+石塘	shi tang	1
+十五家园	shi wu jia yuan	1
+十五奎巷	shi wu kui xiang	1
+市心北路	shi xin bei lu	1
+狮子	shi zi	1
+曙光	shu guang	1
+双荡弄	shuang dang nong	1
+双菱	shuang ling	1
+双流	shuang liu	1
+双龙	shuang long	1
+双浦	shuang pu	1
+双浦镇	shuang pu zhen	1
+双桥村	shuang qiao cun	1
+双元地村	shuang yuan di cun	1
+水澄桥	shui cheng qiao	1
+水电	shui dian	1
+水墩	shui dun	1
+水湘	shui xiang	1
+水秀苑	shui xiu yuan	1
+水漾苑	shui yang yuan	1
+水月	shui yue	1
+四季青街道	si ji qing jie dao	1
+松合	song he	1
+松木场	song mu chang	1
+苏堤	su di	1
+娑婆桥	suo po qiao	1
+所巷	suo xiang	1
+太庙	tai miao	1
+台州路	tai zhou lu	1
+昙花庵路	tan hua an lu	1
+塘河	tang he	1
+塘河新村	tang he xin cun	1
+唐家桥	tang jia qiao	1
+塘南	tang nan	1
+唐祝	tang zhu	1
+体东	ti dong	1
+天城	tian cheng	1
+天官	tian guan	1
+天杭	tian hang	1
+天水街道	tian shui jie dao	1
+天堂园	tian tang yuan	1
+天仙	tian xian	1
+天新	tian xin	1
+田园	tian yuan	1
+天运	tian yun	1
+同协	tong xie	1
+同心	tong xin	1
+头格	tou ge	1
+外桐坞	wai tong wu	1
+外张村	wai zhang cun	1
+万家花园	wan jia hua yuan	1
+湾南	wan nan	1
+王家桥	wang jia qiao	1
+望江街道	wang jiang jie dao	1
+望江隧道	wang jiang sui dao	1
+王马	wang ma	1
+望月	wang yue	1
+网易	wang yi	1
+伟业路	wei ye lu	1
+闻潮	wen chao	1
+文鼎苑	wen ding yuan	1
+文华	wen hua	1
+闻皇庙	wen huang miao	1
+文晖街道	wen hui jie dao	1
+文教	wen jiao	1
+文三路	wen san lu	1
+闻涛	wen tao	1
+文天	wen tian	1
+温馨	wen xin	1
+文新	wen xin	1
+文新街道	wen xin jie dao	1
+温州路	wen zhou lu	1
+翁家埭村	weng jia dai cun	1
+五堡	wu bao	1
+五福	wu fu	1
+吴家村	wu jia cun	1
+吴家墩	wu jia dun	1
+婺江	wu jiang	1
+五里塘	wu li tang	1
+武林街道	wu lin jie dao	1
+午山	wu shan	1
+吴山路	wu shan lu	1
+五幸	wu xing	1
+吴牙	wu ya	1
+五云梦湖	wu yun meng hu	1
+西城纪	xi cheng ji	1
+西湖	xi hu	1
+西湖街道	xi hu jie dao	1
+西陵	xi ling	1
+西穆坞	xi mu wu	1
+西牌楼	xi pai lou	1
+西浦路	xi pu lu	1
+西文	xi wen	1
+西溪	xi xi	1
+西溪街道	xi xi jie dao	1
+西兴	xi xing	1
+西兴大桥	xi xing da qiao	1
+西兴街道	xi xing jie dao	1
+西杨	xi yang	1
+西苑	xi yuan	1
+西苑第二	xi yuan di er	1
+西苑第一	xi yuan di yi	1
+夕照	xi zhao	1
+夏家桥村	xia jia qiao cun	1
+虾龙圩	xia long xu	1
+下马塍	xia ma cheng	1
+下沙	xia sha	1
+下沙街道	xia sha jie dao	1
+霞湾巷	xia wan xiang	1
+下羊村	xia yang cun	1
+现代城	xian dai cheng	1
+仙林	xian lin	1
+祥符	xiang fu	1
+祥符街道	xiang fu jie dao	1
+祥符桥	xiang fu qiao	1
+香积	xiang ji	1
+襄七房	xiang qi fang	1
+象山	xiang shan	1
+香樟	xiang zhang	1
+小河	xiao he	1
+小河街道	xiao he jie dao	1
+小和山	xiao he shan	1
+小江村	xiao jiang cun	1
+萧山	xiao shan	1
+萧山国际机场	xiao shan guo ji ji chang	1
+萧山机场	xiao shan ji chang	1
+小叔房村	xiao shu fang cun	1
+小天竺	xiao tian zhu	1
+小营街道	xiao ying jie dao	1
+小营巷	xiao ying xiang	1
+谢村	xie cun	1
+新风	xin feng	1
+新工	xin gong	1
+新华坊	xin hua fang	1
+新江花园	xin jiang hua yuan	1
+新金都	xin jin du	1
+新凯苑	xin kai yuan	1
+新浦	xin pu	1
+新浦沿村	xin pu yan cun	1
+新沙村	xin sha cun	1
+新塘	xin tang	1
+新塘村	xin tang cun	1
+新文和院	xin wen he yuan	1
+新星	xin xing	1
+新颜苑	xin yan yuan	1
+新元	xin yuan	1
+兴安	xing an	1
+兴隆	xing long	1
+星民	xing min	1
+星桥	xing qiao	1
+星洲	xing zhou	1
+秀水	xiu shui	1
+徐家埠	xu jia bu	1
+学院路	xue yuan lu	1
+亚运村	ya yun cun	1
+延安新村	yan an xin cun	1
+岩大房	yan da fang	1
+沿山河	yan shan he	1
+胭脂新村	yan zhi xin cun	1
+杨公	yang gong	1
+杨公堤	yang gong di	1
+杨家村	yang jia cun	1
+杨家埭	yang jia dai	1
+杨家墩	yang jia dun	1
+杨家牌楼	yang jia pai lou	1
+杨家桥	yang jia qiao	1
+耀华	yao hua	1
+姚家坞	yao jia wu	1
+姚园寺巷	yao yuan si xiang	1
+叶埠桥	ye bu qiao	1
+颐兰	yi lan	1
+益乐	yi le	1
+义桥	yi qiao	1
+一一七医院	yi yi qi yi yuan	1
+银湖	yin hu	1
+银色港湾	yin se gang wan	1
+银色港湾公寓	yin se gang wan gong yu	1
+音乐学院	yin yue xue yuan	1
+应家桥	ying jia qiao	1
+映月	ying yue	1
+永丰	yong feng	1
+永和	yong he	1
+甬江	yong jiang	1
+涌金门	yong jin men	1
+永庆路	yong qing lu	1
+友谊	you yi	1
+御道	yu dao	1
+玉公桥	yu gong qiao	1
+余杭	yu hang	1
+余杭塘路	yu hang tang lu	1
+玉皇山	yu huang shan	1
+余家畈	yu jia fan	1
+玉泉	yu quan	1
+俞章	yu zhang	1
+元宝塘	yuan bao tang	1
+元成	yuan cheng	1
+袁家浦村	yuan jia pu cun	1
+袁浦	yuan pu	1
+月明	yue ming	1
+岳王路	yue wang lu	1
+月雅苑	yue ya yuan	1
+云峰	yun feng	1
+云泉村	yun quan cun	1
+云水	yun shui	1
+运新	yun xin	1
+在水一方	zai shui yi fang	1
+闸弄口	zha nong kou	1
+闸弄口街道	zha nong kou jie dao	1
+招商银行	zhao shang yin hang	1
+章家坝	zhang jia ba	1
+张家埭村	zhang jia dai cun	1
+张家弄	zhang jia nong	1
+张余村	zhang yu cun	1
+朝晖街道	zhao hui jie dao	1
+赵家	zhao jia	1
+浙大	zhe da	1
+浙大求是	zhe da qiu shi	1
+浙大御跸	zhe da yu bi	1
+浙大紫金港	zhe da zi jin gang	1
+浙大玉泉	zhe da yu quan	1
+浙商银行	zhe shang yin hang	1
+政苑	zheng yuan	1
+智格	zhi ge	1
+之江	zhi jiang	1
+之江大桥	zhi jiang da qiao	1
+之江文化中心	zhi jiang wen hua zhong xin	1
+之浦路	zhi pu lu	1
+知足弄	zhi zu nong	1
+中北	zhong bei	1
+中村	zhong cun	1
+中沙	zhong sha	1
+中兴	zhong xing	1
+中医药大学	zhong yi yao da xue	1
+中舟	zhong zhou	1
+周家村	zhou jia cun	1
+周家埭	zhou jia dai	1
+珠儿潭	zhu er tan	1
+竹竿巷	zhu gan xiang	1
+转塘	zhuan tang	1
+转塘街道	zhuan tang jie dao	1
+紫花埠	zi hua bu	1
+紫金	zi jin	1
+紫金港	zi jin gang	1
+紫荆家园	zi jing jia yuan	1
+紫阳街道	zi yang jie dao	1
+紫之隧道	zi zhi sui dao	1
+自在城东苑	zi zai cheng dong yuan	1
+自在城西苑	zi zai cheng xi yuan	1
+总管塘	zong guan tang	1

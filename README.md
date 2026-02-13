@@ -11,7 +11,7 @@
 
 
 ## 仓库结构
-<pre> ```text
+<pre>
 ├── city/                  # 城市级别地名
 │   ├── shanghai.yaml         # 上海
 │   ├── nanjing.yaml
@@ -31,7 +31,7 @@
 │   │   └── ...
 │   └── ...
 └── README.md
-```</pre>
+</pre>
 
 
 ## 数据分类说明
